@@ -1,0 +1,31 @@
+_repo: The-Tomato_38051
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Work, Paul
+    birthdate: 1886
+    deathdate: 1959
+    gutenberg_agent_id: '39222'
+    url: http://www.gutenberg.org/2009/agents/39222
+description: ''
+gutenberg_issued: '2011-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Tomatoes'
+tableOfContents: Introduction -- The tomato is a great food and crop plant -- Choose
+  the soil and feed the plant -- The best in seed is none too good -- Strong plants
+  for early maturity and heavy crop -- Good culture favors good returns -- To train
+  them up or let them spread -- The eternal battle with insects and diseases -- Skillful
+  selling crowns the enterprise -- Operating in the red or in the black.
+title: The Tomato
+url: http://www.gutenberg.org/ebooks/38051
